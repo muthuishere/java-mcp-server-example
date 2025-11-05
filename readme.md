@@ -51,14 +51,6 @@ MCP_SERVER_BASE_URL=http://localhost:8080
 MCP_AUTH_SERVER_URL=http://localhost:9000
 ```
 
-### Application Profiles
-
-The server supports multiple communication profiles:
-
-- **`stdio`** (default): Standard input/output for MCP protocol
-- **`sse`**: Server-Sent Events for real-time communication
-- **`streamable`**: Streaming responses
-- **`stateless`**: Stateless operation mode
 
 ## 🏃‍♂️ Running the Server
 
